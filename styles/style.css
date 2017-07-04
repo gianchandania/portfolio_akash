@@ -168,6 +168,10 @@ h3 {
     text-transform: uppercase;
 }
 
+h1 {
+    letter-spacing: 0.1em;
+}
+
 h2 {
     font-size: 2em;
     word-spacing: 2px;
@@ -179,6 +183,7 @@ h2 {
 h3 {
     font-size: 1.4em;
     margin-bottom: 15px;
+    letter-spacing: 1px;
 }
 
 h2:after {
