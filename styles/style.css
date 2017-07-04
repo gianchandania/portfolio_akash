@@ -177,13 +177,13 @@ h2 {
     word-spacing: 2px;
     text-align: center;
     margin-bottom: 30px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 h3 {
     font-size: 1.4em;
     margin-bottom: 15px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 h2:after {
