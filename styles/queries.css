@@ -236,6 +236,10 @@
     	margin-top: 20px;
 	}	
 
+	h1, h2, h3 {
+		letter-spacing: 1px;
+	}
+
     .navigate {
     	position: relative;
     	top: 60%;
